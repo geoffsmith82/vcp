@@ -8,7 +8,6 @@
 *.oca
 *.$$$
 *.zip
-*.dproj
 *.identcache
 *.local
 *.~*
