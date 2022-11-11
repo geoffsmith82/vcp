@@ -50,7 +50,7 @@ interface
 uses
   Windows, unaTypes, unaClasses, unaConfRTP, unaConfRTPserver,
   Forms, Classes, ActnList, Menus, ExtCtrls, Controls, ComCtrls, StdCtrls,
-  unaVC_pipe;
+  unaVC_pipe, System.Actions;
 
 type
   Tc_form_main = class(TForm)

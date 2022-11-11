@@ -54,7 +54,8 @@ interface
 uses
   Windows, unaTypes, unaClasses,
   Forms, StdCtrls, Classes, ActnList, Controls, ComCtrls,
-  unavcIDE, ExtCtrls, Dialogs, Menus, unaVC_wave, unaVC_socks, unaVC_pipe;
+  unavcIDE, ExtCtrls, Dialogs, Menus, unaVC_wave, unaVC_socks, unaVC_pipe,
+  System.Actions;
 
 type
   Tc_form_vcBroadcast = class(TForm)

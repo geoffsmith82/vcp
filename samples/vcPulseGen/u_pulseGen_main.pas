@@ -52,7 +52,7 @@ interface
 uses
   Windows, unaTypes, Messages, Forms, Classes, Controls, StdCtrls, ActnList,
   unaClasses, unaMsAcmClasses, ExtCtrls, Dialogs, ComCtrls, unaDspControls,
-  Menus;
+  Menus, System.Actions;
 
 type
   Tc_pg_main = class(TForm)

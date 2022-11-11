@@ -51,7 +51,7 @@ uses
   Windows, unaTypes, unaClasses, unaSockets, unaVcIDE, 
   Forms, Messages, StdActns, Classes, ActnList, Menus, Controls,
   StdCtrls, ComCtrls, ExtCtrls, CheckLst, unaVC_wave, unaVC_socks,
-  unaVC_pipe;
+  unaVC_pipe, System.Actions;
 
 const
   WM_ADDOUTTEXT	= WM_USER + 1;

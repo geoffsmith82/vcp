@@ -51,7 +51,7 @@ interface
 uses
   Windows, unaTypes, unaClasses, Forms,
   ExtCtrls, unaVcIDE, Controls, StdCtrls, CheckLst, Classes, ActnList, ComCtrls,
-  Menus, unaVC_pipe, unaVC_socks;
+  Menus, unaVC_pipe, unaVC_socks, System.Actions;
 
 type
   Tc_form_main = class(TForm)

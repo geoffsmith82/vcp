@@ -50,7 +50,8 @@ interface
 uses
   Windows, unaTypes, Classes,
   Controls, StdCtrls, ComCtrls, ExtCtrls, Forms, ActnList, Dialogs, CheckLst,
-  unaClasses, unavcIDE, Menus, unaVC_socks, unaVC_wave, unaVC_pipe;
+  unaClasses, unavcIDE, Menus, unaVC_socks, unaVC_wave, unaVC_pipe,
+  System.Actions;
 
 type
   Tc_form_vcNetTalkMain = class(TForm)

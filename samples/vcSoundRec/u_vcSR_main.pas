@@ -45,7 +45,7 @@ interface
 uses
   Windows, unaTypes, unaUtils, unaClasses, unaDspControls,
   Forms, Menus, Controls, Dialogs, Classes, ActnList, ExtCtrls, unaVCIDE,
-  StdCtrls, ComCtrls, unaVC_wave, unaVC_pipe;
+  StdCtrls, ComCtrls, unaVC_wave, unaVC_pipe, System.Actions;
 
 const
   //

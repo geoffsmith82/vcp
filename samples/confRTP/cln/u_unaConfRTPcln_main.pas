@@ -51,7 +51,8 @@ uses
   Windows, Forms,
   unaTypes, unaClasses, unaConfRTP, unaConfRTPclient, unaVC_wave,
   unaVCIDE, unaVC_pipe,
-  Classes, ActnList, Menus, ExtCtrls, ComCtrls, StdCtrls, Controls;
+  Classes, ActnList, Menus, ExtCtrls, ComCtrls, StdCtrls, Controls,
+  System.Actions;
 
 type
   Tc_form_main = class(TForm)

@@ -49,7 +49,7 @@ interface
 uses
   Windows, unaTypes, unaClasses, Forms,
   unaVcIDE, StdCtrls, Controls, Classes, ExtCtrls, CheckLst, ActnList,
-  ComCtrls, Menus, unaVC_wave, unaVC_socks, unaVC_pipe;
+  ComCtrls, Menus, unaVC_wave, unaVC_socks, unaVC_pipe, System.Actions;
 
 type
   Tc_form_main = class(TForm)

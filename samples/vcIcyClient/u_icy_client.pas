@@ -55,7 +55,8 @@ uses
   Windows, unaTypes, unaUtils, Forms, unaClasses,
   unaMsAcmClasses, unaMpglibAPI, unaEncoderAPI, unaSocks_SHOUT,
   unaIcyStreamer,
-  Controls, StdCtrls, ComCtrls, ExtCtrls, Classes, ActnList, Menus, unaVC_pipe, unaVC_wave, unaVCIDE;
+  Controls, StdCtrls, ComCtrls, ExtCtrls, Classes, ActnList, Menus, unaVC_pipe, unaVC_wave, unaVCIDE,
+  System.Actions;
 
 type
   // --  --

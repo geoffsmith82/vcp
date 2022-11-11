@@ -55,7 +55,7 @@ uses
   Windows, unaTypes, unaClasses, unaSockets, MMSystem,
   Messages, Forms, Classes, ActnList, unaVcIDE, unaGridMonitorVCL,
   Controls, StdCtrls, ComCtrls, ExtCtrls, Graphics, CheckLst, Menus,
-  unaVC_wave, unaVC_socks, unaVC_pipe;
+  unaVC_wave, unaVC_socks, unaVC_pipe, System.Actions;
 
 type
   Tc_form_main = class(TForm)
