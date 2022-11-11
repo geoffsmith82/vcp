@@ -440,7 +440,7 @@ const
   RT_RCDATAW = #10;			
 {$ELSE }
 // Wide version of RT_RCDATA
-  RT_RCDATAW = pWideChar(#10);		
+  RT_RCDATAW = PChar(10);
 {$ENDIF }
 
 implementation
